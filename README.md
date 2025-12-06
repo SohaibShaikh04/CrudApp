@@ -321,26 +321,3 @@ pnpm build
 pnpm start
 ```
 
-## 🤝 Contributing
-
-1. Create a feature branch
-2. Make your changes
-3. Run tests and format
-4. Submit a pull request
-
-## 📝 License
-
-MIT License - feel free to use in personal or commercial projects
-
-## 🆘 Support & Resources
-
-- **Vite Documentation** - https://vitejs.dev
-- **React Documentation** - https://react.dev
-- **TailwindCSS** - https://tailwindcss.com
-- **MongoDB** - https://docs.mongodb.com
-- **Express** - https://expressjs.com
-- **Radix UI** - https://www.radix-ui.com
-
----
-
-**Ready to get started?** Run `pnpm dev` and navigate to `http://localhost:5173` to see the app in action!
